@@ -2,13 +2,13 @@
 
 Gem::Specification.new do |s|
   s.name = %q{vimeo}
-  s.version = "0.2.2"
+  s.version = "0.2.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Matt Hooks"]
+  s.authors = ["Matt Hooks, Sebastian Vogelsang"]
   s.date = %q{2009-04-21}
   s.description = %q{A full featured Ruby implementation of the Vimeo API.}
-  s.email = %q{matthooks@gmail.com}
+  s.email = %q{vogelsang.sebastian@gmail.com}
   s.extra_rdoc_files = [
     "CHANGELOG.rdoc",
     "LICENSE",
